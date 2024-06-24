@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm David 👋
 
-<!--
-**DavidHusicka/DavidHusicka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student from Czechia with love for exploring stuff.
 
-Here are some ideas to get you started:
+### A little big about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Main OS: Linux (Arch btw)
+- 👨‍💻 Fav Lang: Rust
+- 🎓 Bachelors from Computer Science at VSB-TUO
+- 📖 (WIP) Ingineers from CS at VSB-TUO
+- 💬 Languages: Czech, English, Japanese, (WIP) Chinese
+
+![Sakura Nene Rust](https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Nene_Sakura_Rust.png)
