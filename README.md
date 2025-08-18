@@ -2,7 +2,7 @@
 
 Computer science student from Czechia with love for exploring stuff.
 
-### A little big about me
+### A little bit about me
 
 - 🖥️ Main OS: Linux (Arch btw)
 - 👨‍💻 Fav Lang: Rust
